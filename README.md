@@ -11,4 +11,5 @@ As the team project is coming up soon, I was wondering about how to successfully
 6. Encourage focused work 
 7. Cut back on activities that don't directly add value during sprints 
 8. Encourage a healthy work-life balance
+
 Although this article is primarily concerned with the ways a manager can implement to enhance the development speed, I noticed some advices that I could take as well. As a team member, by increasing my coding skills and familiarizing the workflow quickly, I will be able to handle more problems faster and create less complex solutions, when situations arise during each sprints. Overall, this article was interesting and informative, as it provided me with some insight into how to approach this new group project.
